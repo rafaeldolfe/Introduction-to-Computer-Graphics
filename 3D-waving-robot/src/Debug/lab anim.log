@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(52,8): warning C4101:  'res': unreferenced local variable
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(74,49): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(78,50): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(95,49): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(99,50): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(129,13): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(133,14): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(137,15): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(139,14): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(251,9): warning C4101:  'newPt': unreferenced local variable
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(481,1): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(483,17): warning C4244:  '=': conversion from 'long double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(493,1): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(497,1): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(501,1): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Cal Poly\computer-graphics\lab5\src\main.cpp(505,1): warning C4305:  '+=': truncation from 'double' to 'float'
+  lab anim.vcxproj -> C:\Cal Poly\computer-graphics\lab5\Debug\lab anim.exe
