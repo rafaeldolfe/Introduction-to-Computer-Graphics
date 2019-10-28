@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Cal Poly\computer-graphics\lab lighting\src\main.cpp(48,13): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab lighting\src\main.cpp(52,14): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab lighting\src\main.cpp(56,15): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab lighting\src\main.cpp(58,14): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab lighting\src\main.cpp(251,1): warning C4305:  'initializing': truncation from 'double' to 'float'
+  lab lighting.vcxproj -> C:\Cal Poly\computer-graphics\lab lighting\Debug\lab lighting.exe
