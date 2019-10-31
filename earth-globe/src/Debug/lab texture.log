@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Cal Poly\computer-graphics\lab texture\src\main.cpp(47,13): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture\src\main.cpp(51,14): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture\src\main.cpp(55,15): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture\src\main.cpp(57,14): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture\src\main.cpp(306,1): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture\src\main.cpp(308,1): warning C4305:  'initializing': truncation from 'double' to 'float'
+  lab texture.vcxproj -> C:\Cal Poly\computer-graphics\lab texture\Debug\lab texture.exe
