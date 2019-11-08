@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(52,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(56,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(61,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(63,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(65,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(67,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(176,16): warning C4101: 'posY': unreferenced local variable
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(177,9): warning C4101: 'newPt': unreferenced local variable
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(176,10): warning C4101: 'posX': unreferenced local variable
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(425,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(453,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(456,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(517,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(517,19): warning C4244:         with
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(517,19): warning C4244:         [
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(517,19): warning C4244:             T=float
+C:\Cal Poly\computer-graphics\lab texture skybox billboards\src\main.cpp(517,19): warning C4244:         ]
+  lab texture.vcxproj -> C:\Cal Poly\computer-graphics\lab texture skybox billboards\Debug\lab texture.exe
