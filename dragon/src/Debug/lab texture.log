@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Cal Poly\computer-graphics\dragon\src\main.cpp(50,24): warning C4018: '<': signed/unsigned mismatch
+C:\Cal Poly\computer-graphics\dragon\src\main.cpp(83,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\dragon\src\main.cpp(87,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\dragon\src\main.cpp(91,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\dragon\src\main.cpp(93,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\dragon\src\main.cpp(230,21): warning C4018: '<': signed/unsigned mismatch
+C:\Cal Poly\computer-graphics\dragon\src\main.cpp(257,21): warning C4018: '<': signed/unsigned mismatch
+C:\Cal Poly\computer-graphics\dragon\src\main.cpp(281,21): warning C4018: '<': signed/unsigned mismatch
+C:\Cal Poly\computer-graphics\dragon\src\main.cpp(404,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\dragon\src\main.cpp(406,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  lab texture.vcxproj -> C:\Cal Poly\computer-graphics\dragon\Debug\lab texture.exe
