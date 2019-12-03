@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(49,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(53,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(57,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(59,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(139,16): warning C4101: 'posY': unreferenced local variable
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(140,9): warning C4101: 'newPt': unreferenced local variable
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(139,10): warning C4101: 'posX': unreferenced local variable
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(259,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(261,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(412,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(414,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(564,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Cal Poly\computer-graphics\lab instance rendering\src\main.cpp(595,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  lab instance rendering.vcxproj -> C:\Cal Poly\computer-graphics\lab instance rendering\Debug\lab instance rendering.exe
